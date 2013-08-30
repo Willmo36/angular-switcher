@@ -1,7 +1,7 @@
 ## AngularJS-Switcher ##
-Directive for creating muli-option switchers in [AngularJS](https://github.com/angular/angularjs "AngularJS").
+Directive for creating multi-option switchers in [AngularJS](https://github.com/angular/angularjs "AngularJS").
 
- A switch will `$observe` an expression, changing it's state and calling a function on the scope when the expressions value changes.
+ A switch will `$observe` an expression, changing it's state and calling a function on the scope when the expression's value changes.
 
 ## Installing ##
 Include the script **after** Angular and **before** your module definition:
